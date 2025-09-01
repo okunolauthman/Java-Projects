@@ -1,0 +1,19 @@
+
+Expense Tracker App
+● Data Involved: Expenses with Data/SQL attributes like ID, category (food,
+transportation, bills), amount, date, and description.
+● Operations: Add, delete, update expenses or otherwise known as CRUD to categorize
+expenses, and generate reports (e.g., total monthly spending).
+● Data Structures: HashMap (for category-based storage), ArrayList (to store expenses),
+Queue (for tracking recent expenses).
+
+My Report
+I plan to develop an Expense Tracker Application that allows users to log, categorize, and
+analyze their spending. I plan for the application to involve several types of data, including
+expenses, which consist of attributes such as an expense ID, category (e.g., food, transportation,
+bills), amount, date, and description. Additionally,I plan to implement a bonus feature for budget
+limits per category and monthly summaries to provide insights into spending habits. To
+efficiently manage these data types, I will use a HashMap for quick category-based lookups, an
+ArrayList to store and iterate through expense records, and a Queue to track recent transactions.
+The application will support operations such as adding new expenses, updating or deleting
+expenses, filtering expenses by category or date, calculating total expenditures.
